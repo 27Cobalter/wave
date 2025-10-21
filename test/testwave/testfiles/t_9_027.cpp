@@ -7,6 +7,6 @@
     LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
 =============================================================================*/
 
-//O -S$P(utf8-test-ßµ™∃)
+//O -S$P(utf8-test)
 //E t_9_027.cpp(12): error: could not find include file: file.hpp
 #include <file.hpp>
